@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine
+    ;
+}
+table,th {
+    border: 1px black;
+  background-image:url("dyy.jpg");
+     }
+ table {width:100%;
+}
